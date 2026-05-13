@@ -27,3 +27,7 @@ app/sqlite_data/
 # Migrated auth files
 *.json.migrated
 docker-compose.ci.yml
+
+# project
+.history/
+.omc/
